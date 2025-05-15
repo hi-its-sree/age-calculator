@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770338205046",
+    "project_id": "rentzy-8208b",
+    "storage_bucket": "rentzy-8208b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770338205046:android:61c527d4b7db3e730c1e57",
+        "android_client_info": {
+          "package_name": "com.example.rentzy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd2RqURdThJv8qV6FQm5sNFoz_5hWTNSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
